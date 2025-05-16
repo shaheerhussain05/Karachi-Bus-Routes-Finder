@@ -1,0 +1,3382 @@
+{
+  "100 Feet Road": [
+    12.9774944,
+    77.6411324
+  ],
+  "100 Quarters": [
+    24.8892346,
+    67.0455539
+  ],
+  "13-D  Bridge": null,
+  "19-D Mohajir camp": null,
+  "19-D Nai Abadi": [
+    24.9170133,
+    66.9626852
+  ],
+  "19-D Qabrustan": [
+    24.94640728190203,
+    67.10764536246859
+  ],
+  "19-D Saeedabad": [
+    24.879299,
+    66.999896
+  ],
+  "2-D Bus Stop": [
+    24.981988,
+    67.057664
+  ],
+  "2Min Chowrangi": null,
+  "36-B Area": null,
+  "5-A": [
+    24.8723818,
+    67.0896408
+  ],
+  "5-B Area": [
+    24.8980389,
+    67.0434184
+  ],
+  "5-E": [
+    24.8546842,
+    67.0207055
+  ],
+  "7th Day Hospital": [
+    24.8661719,
+    67.02762135272194
+  ],
+  "89 Bus Stop": null,
+  "A.B biscuit factory": null,
+  "A.P.W.A College": null,
+  "A.P.W.A School": null,
+  "APWA Girls College": [
+    24.8974121,
+    67.0294056
+  ],
+  "Abbasi Shaheed Hospital": [
+    24.92053005,
+    67.02977985728015
+  ],
+  "Abbasi hospital": [
+    24.92053005,
+    67.02977985728015
+  ],
+  "Abbysinia": null,
+  "Abdoz  Chowrangi": null,
+  "Abdul Hameed Badayuni College": null,
+  "Abdullah  College": [
+    24.856743450000003,
+    66.99166856891782
+  ],
+  "Abdullah Appartments": null,
+  "Abdullah Gabol Goth": [
+    25.0320204,
+    67.124965
+  ],
+  "Abdullah Shah Gazi Mazar": null,
+  "Abidabad": [
+    24.914389045026113,
+    66.97563901130003
+  ],
+  "Abidabad Orangi": [
+    24.9277653,
+    66.9796671
+  ],
+  "Abro Salt Works": null,
+  "Abul Hassan Isphahani Road": null,
+  "Achanak Hotal": null,
+  "Ack Ack School": null,
+  "Adam Road": [
+    24.83821754458734,
+    67.03821704902306
+  ],
+  "Adamjee Road": [
+    24.9401172,
+    67.11424978621247
+  ],
+  "Agha Khan Hospital": [
+    24.8293087,
+    67.0655315
+  ],
+  "Agha Khan Jamat Khana": [
+    24.9131581,
+    67.027236
+  ],
+  "Agha khan Road": [
+    24.869291710433178,
+    67.02268477548706
+  ],
+  "Agra Taj": [
+    24.8714202,
+    66.9826114
+  ],
+  "Agra taj Colony": [
+    24.8714202,
+    66.9826114
+  ],
+  "Agra taj moosa lane": null,
+  "Air Port": null,
+  "Aisha Manzil": [
+    24.9268327,
+    67.0690643
+  ],
+  "Aisha manzil": [
+    24.9268327,
+    67.0690643
+  ],
+  "Ajmer Palza": null,
+  "Akhtar Colony": [
+    24.9037778,
+    66.9757964
+  ],
+  "Al ahmed Town": [
+    24.947686,
+    67.0554195
+  ],
+  "Al asif square sohrab goth": [
+    24.9510215,
+    67.0915684
+  ],
+  "Al-Asif Plaza": null,
+  "Al-Asif Square": [
+    24.9510215,
+    67.0915684
+  ],
+  "Al-Azam square": [
+    24.91363995,
+    67.05206812705177
+  ],
+  "Al-Hyderi": [
+    24.9354473,
+    67.0454809
+  ],
+  "Al-Noor Gulberg": [
+    24.9166287,
+    67.0588339
+  ],
+  "Al-Noor Society": [
+    24.9948579,
+    67.1089952
+  ],
+  "Al-Noor Stop": null,
+  "Al-Shifa": [
+    24.826204,
+    66.9815855
+  ],
+  "Al-majid school": null,
+  "Alamgir Road": [
+    24.886810215510714,
+    67.05998477348963
+  ],
+  "Aliabad": [
+    24.9203933,
+    67.0636894
+  ],
+  "Allah Wala Town": [
+    24.8204525,
+    67.1061302
+  ],
+  "Allama Iqbal College": [
+    24.8800329,
+    67.1499058
+  ],
+  "Allama Rashid Turabi Chowk 2": null,
+  "Allama Turabi Road": [
+    24.922284112143004,
+    67.04319508562689
+  ],
+  "Altaf Nagar": [
+    24.8743092,
+    67.0211553
+  ],
+  "Ancholi": [
+    24.9447754,
+    67.0795328
+  ],
+  "Angara Goth": null,
+  "Anglo Orient School": null,
+  "Aram bagh": [
+    24.85621265,
+    67.01344752163324
+  ],
+  "Arts  Concil": null,
+  "Asia mor": null,
+  "Asif Centre Super Highway": null,
+  "Asif Market": [
+    24.9573476,
+    67.202991
+  ],
+  "Askari Appartment": null,
+  "Asoo Goth": null,
+  "Asphalt": null,
+  "Auliya Masjid": [
+    24.8733225,
+    67.059279
+  ],
+  "Awami Goth": [
+    24.9217958,
+    67.1502004
+  ],
+  "Ayub Goth": [
+    24.9478873,
+    67.131024
+  ],
+  "Ayub Manzil": [
+    24.9198976,
+    67.0731208
+  ],
+  "Azam Basti": [
+    24.8481043,
+    67.0746834
+  ],
+  "Azeem Pure": null,
+  "Azimpura": null,
+  "Aziz Bhatti Park": [
+    24.9126317,
+    67.09454121181608
+  ],
+  "Aziz Bhatti Shaheed Road": null,
+  "Aziz Medical Centre": [
+    24.9257373,
+    67.0307231
+  ],
+  "Aziz Mills": null,
+  "Azizabad": [
+    24.9161647,
+    67.0653569
+  ],
+  "Azizabad Chowrangi": null,
+  "B-3 Mini Bus Stop": null,
+  "Baba-e-Urdu Road": [
+    24.9024963,
+    67.0502744
+  ],
+  "Baba-e-urdu Road": [
+    24.9024963,
+    67.0502744
+  ],
+  "Babar Market": [
+    24.8586062,
+    67.0038439
+  ],
+  "Bacha khan Chowk": null,
+  "Bachoha Jail": null,
+  "Badar Chowk": [
+    24.93553990916993,
+    66.99279967201232
+  ],
+  "Badar Chowk No 4": [
+    24.932961673950548,
+    66.9980434916965
+  ],
+  "Badar Chowk No 5": [
+    24.932961673950548,
+    66.9980434916965
+  ],
+  "Badar Hotel": null,
+  "Badhni Goth": null,
+  "Bagh-e-jinnah": [
+    24.84961285,
+    67.0229810997804
+  ],
+  "Baghdadi": [
+    24.981981349999998,
+    67.0741431511668
+  ],
+  "Baghdadi P.S Noorabad": null,
+  "Bahadurabad": [
+    24.8823404,
+    67.0674014
+  ],
+  "Bakhari Bijara Bhatti": null,
+  "Bakrapidi": null,
+  "Bala Board": null,
+  "Balda Colony": null,
+  "Baldia": [
+    24.9187786,
+    66.9613949
+  ],
+  "Baldia Colony No. 6": [
+    24.906779183613015,
+    66.96043148402686
+  ],
+  "Baldia Colony No. 7": [
+    24.906779183613015,
+    66.96043148402686
+  ],
+  "Baldia Town": [
+    24.9187786,
+    66.9613949
+  ],
+  "Baldia shershah": null,
+  "Baloch Colony": [
+    24.8324179,
+    67.2457481
+  ],
+  "Baloch Goth": [
+    24.8578609,
+    66.68580074591112
+  ],
+  "Banarar Colony": null,
+  "Banaras": [
+    25.003128866381104,
+    66.9722896356022
+  ],
+  "Banaras Chowk": [
+    24.9325016,
+    67.0153877
+  ],
+  "Bandar Road": [
+    24.874752249856893,
+    67.03709436319376
+  ],
+  "Bangali Oil mills": null,
+  "Bangali Para": [
+    24.9635316,
+    67.0768391
+  ],
+  "Bank Qtrs": null,
+  "Bara Board": null,
+  "Bara Dari": [
+    24.9296912,
+    67.07995164813929
+  ],
+  "Bara Maidan": [
+    24.9161949,
+    67.0217581
+  ],
+  "Barbar": [
+    24.9174109,
+    67.0670079
+  ],
+  "Barness Street": null,
+  "Bath Island": [
+    24.8352549,
+    67.0281829
+  ],
+  "Bawani textile mills": null,
+  "Bawany Ghali": null,
+  "Behar Colony": null,
+  "Bengali Camp": null,
+  "Bhains Colony": [
+    24.8240238,
+    67.26293343183906
+  ],
+  "Bhattai Colony": [
+    24.8128492,
+    67.1087055
+  ],
+  "Bhawani Challi": null,
+  "Bhayani Heights": [
+    24.950798,
+    67.0520772
+  ],
+  "Bhiroo Goth": null,
+  "Bhitai Road": [
+    25.02013785309878,
+    67.12884886798683
+  ],
+  "Bilal Chowrangi": [
+    24.84295455,
+    67.14204181808654
+  ],
+  "Bilal Chowrangi hospital": null,
+  "Bilal Colony": [
+    24.8478476,
+    67.1342808
+  ],
+  "Bilal Pulia": null,
+  "Bilawal House": [
+    24.8123188,
+    67.0200174
+  ],
+  "Biscuit Factory": null,
+  "Bismillah Stop": [
+    24.832085,
+    67.1444614
+  ],
+  "Bismillah hotel": [
+    24.8977164,
+    67.0335196
+  ],
+  "Bleak House Road": [
+    24.844622738696806,
+    67.0373914457686
+  ],
+  "Bleak house Road": [
+    24.844622738696806,
+    67.0373914457686
+  ],
+  "Boad Basin": null,
+  "Boad Office": null,
+  "Board office Chowrangi": null,
+  "Boat Basin Chowragni": null,
+  "Bolton Market": [
+    24.8507404,
+    67.0001432
+  ],
+  "Bridge": [
+    24.8831351,
+    67.1377415
+  ],
+  "Britte Road": null,
+  "Buffallow Colony Landhi": null,
+  "Buffer Zone": [
+    24.95525465,
+    67.06701526356116
+  ],
+  "Bughdadi Agra Taj": null,
+  "Bund Murad Khan": null,
+  "Buns Road": null,
+  "Burmi Colony": null,
+  "Bus stop No 5": null,
+  "C.M.H Picaddily Cinema Chowk": null,
+  "C.O.D Road": null,
+  "CLifton Casino": null,
+  "Cafe Nawabad": null,
+  "Cafe liberty": null,
+  "Cannt. Station": null,
+  "Cantt": [
+    24.8437905,
+    67.04114382476948
+  ],
+  "Cantt Bazar": [
+    24.9263658,
+    67.2036763
+  ],
+  "Cantt Post  office": [
+    24.8437136,
+    67.037373
+  ],
+  "Cantt. Public School": [
+    24.79982635,
+    66.96571238275297
+  ],
+  "Capri Cinema": [
+    24.86821035,
+    67.02890551448868
+  ],
+  "Carela mor": null,
+  "Cattel Colony": null,
+  "Cement Factory": [
+    24.907742474373237,
+    67.09800912713153
+  ],
+  "Ch. Khaliquzzaman Road": null,
+  "Chaghi": null,
+  "Chakiwara": [
+    24.8714393,
+    66.9995905
+  ],
+  "Chaman Colony": [
+    24.93500125,
+    67.14069170566046
+  ],
+  "Chamra Chowrangi": null,
+  "Chand Bibi Road": [
+    24.860499664723143,
+    67.0102243856709
+  ],
+  "Chandni Chowk": [
+    24.89064955,
+    67.06330482961053
+  ],
+  "Channasar Goth": null,
+  "Charai nala": null,
+  "Chaukandi": [
+    24.8635508,
+    67.2713543
+  ],
+  "Chawal Godown": null,
+  "Cheelawala kothi khalid bin walid Road": null,
+  "Cheta gate": null,
+  "Chiragh Hotel": [
+    24.8370005,
+    67.1801744
+  ],
+  "Chota Maidan": null,
+  "Chowrangi No. 2": [
+    24.8820534,
+    67.1514074
+  ],
+  "Chungi Naka": null,
+  "Cinema Chowk": null,
+  "City Court": [
+    24.85595405,
+    67.00572025202354
+  ],
+  "City Garden": [
+    25.04867435,
+    67.14117180081749
+  ],
+  "City P.O Burns Road": null,
+  "City Post Office": null,
+  "City Station": null,
+  "Civic Centre": null,
+  "Civil Lines": [
+    24.844097,
+    67.0334903
+  ],
+  "Civil hospital": [
+    24.8593607,
+    67.0103184704879
+  ],
+  "Clayton Road": [
+    24.876328478838,
+    67.03311250099915
+  ],
+  "Clifton": [
+    24.8190552,
+    67.0262397
+  ],
+  "Clifton Bridge": [
+    24.84047525222828,
+    67.03276846873135
+  ],
+  "Clifton Road": [
+    24.8322852,
+    67.0399483
+  ],
+  "Clifton bridge": [
+    24.84047525222828,
+    67.03276846873135
+  ],
+  "Coast Gard": null,
+  "College Chowrangi": [
+    24.94796355,
+    67.04038216438735
+  ],
+  "Colony Gate": [
+    24.88711,
+    67.1501422
+  ],
+  "Corongi Road": null,
+  "Corporation": [
+    17.4250487,
+    78.5354801
+  ],
+  "Country club Road": [
+    24.83226687636891,
+    67.34615766134654
+  ],
+  "Court Road": [
+    24.853401356336136,
+    67.02190930608273
+  ],
+  "Cowie Road": null,
+  "Cross Frere Road": null,
+  "Custom house": [
+    24.8480911,
+    66.99260501563573
+  ],
+  "D.C Office": null,
+  "D.K Mour": null,
+  "D.turn Kala school No 2": null,
+  "D.turn sindhi hotel": null,
+  "Dabba Colony": [
+    24.9605668,
+    66.9840721
+  ],
+  "Dabba Mour": null,
+  "Dada Bhai Nooroji Road": null,
+  "Daily Jung Office": null,
+  "Dairy Farm Model Colony": [
+    24.82955385,
+    67.24184497499999
+  ],
+  "Dak Khana": [
+    24.900129454889505,
+    67.2094411619994
+  ],
+  "Dalimia Cement Factory": null,
+  "Dalmia": [
+    24.907742474373237,
+    67.09800912713153
+  ],
+  "Dalmia Chowrangi": null,
+  "Damloti No. 3": null,
+  "Damloti No. 6": null,
+  "Dangerai Road": null,
+  "Darakshan": [
+    24.9897425,
+    67.1254788
+  ],
+  "Darsana Chana": null,
+  "Darul-uloom": [
+    24.875718,
+    67.1355602
+  ],
+  "Daryabad": [
+    24.8622485,
+    66.9911979
+  ],
+  "Dastagir": [
+    24.9283092,
+    67.0782597
+  ],
+  "Dastagir Colony": [
+    24.9222845,
+    66.9793518
+  ],
+  "Dastagir No. 16": [
+    24.9283092,
+    67.0782597
+  ],
+  "Dastagir No. 9": [
+    24.9283092,
+    67.0782597
+  ],
+  "Data Chowk Orangi Town": null,
+  "Dawood  Chowrangi": [
+    24.850002,
+    67.2073053
+  ],
+  "Dawood Mills": [
+    24.8415035,
+    67.2169367
+  ],
+  "Dawood Pota Road": null,
+  "Defence": [
+    24.8328496,
+    67.0630248
+  ],
+  "Defence Mour": null,
+  "Defence Society": [
+    24.9594098,
+    67.1888088
+  ],
+  "Defence View": [
+    24.8341807,
+    67.075853
+  ],
+  "Defence society": [
+    24.9594098,
+    67.1888088
+  ],
+  "Degree College": [
+    24.9362876,
+    67.1341279
+  ],
+  "Dehangir Road": null,
+  "Dehli Colony": [
+    24.8319055,
+    67.0431537
+  ],
+  "Dehli Saudagar Colony": [
+    24.882455,
+    67.0591263391899
+  ],
+  "Dens Hall": null,
+  "Dhabi Bux Goth": null,
+  "Dhobi ghat": [
+    24.87787915,
+    67.01249692834976
+  ],
+  "Dhoraji": [
+    24.9375016,
+    67.1752589
+  ],
+  "Dhoraji Colony": [
+    24.8872871,
+    67.07702867903134
+  ],
+  "Dhoraji society": [
+    24.9375016,
+    67.1752589
+  ],
+  "Direct Bunder Road": null,
+  "Directorate Of School Road": null,
+  "Disco Bakery": [
+    24.929117,
+    67.097339
+  ],
+  "Disco Chowk": null,
+  "Disco Mor": null,
+  "Do Minute Chowrangi": null,
+  "Dock Yard": null,
+  "Dond Goth": null,
+  "Dr": [
+    24.8460433,
+    67.0378819
+  ],
+  "Dr. Zia-uddin Road": null,
+  "Dr. Ziauddin Hospital": [
+    24.9244255,
+    67.0456674
+  ],
+  "Drigh Colony No. 1": [
+    24.8843716,
+    67.1283876
+  ],
+  "Drigh Colony No. 2": [
+    24.8843716,
+    67.1283876
+  ],
+  "Drigh Colony No. 5": [
+    24.8843716,
+    67.1283876
+  ],
+  "Drigh Colony sector No 3": null,
+  "Drigh Road": [
+    24.8866864,
+    67.1258404
+  ],
+  "Drigh Road Station": [
+    24.8866864,
+    67.1258404
+  ],
+  "Drive-In": null,
+  "Drive-in-cinema": null,
+  "Eid Gah": [
+    24.91484715,
+    66.97087655002022
+  ],
+  "Empress Market": [
+    24.8620983,
+    67.0294872
+  ],
+  "End of Sector 4 Baldia Town": null,
+  "Enquiry office": [
+    24.9071447,
+    67.0323287
+  ],
+  "Enrollment Road": null,
+  "Essa nagari": null,
+  "Estate avenue": [
+    24.890090582553704,
+    66.98428323693973
+  ],
+  "Exhibition": [
+    24.8760053,
+    67.02348
+  ],
+  "Extension Malir City Petrol Pump": null,
+  "F.B Area": [
+    24.8972444,
+    67.1178367
+  ],
+  "F.T.C": null,
+  "Faisal Road": [
+    24.852795179057072,
+    67.0348882174959
+  ],
+  "Faizabad Sector 4-A": null,
+  "Faizabad Sector 7-A": null,
+  "Faizabad Sector 7-B": null,
+  "Faqir Colony": [
+    24.92370125232931,
+    66.9681247400043
+  ],
+  "Faqir Mohammad Durra Khan Road": null,
+  "Faran Centre": null,
+  "Fareed Colony": [
+    24.9335079,
+    66.9816856
+  ],
+  "Farooq Mills": null,
+  "Fatimah Jinnah Road": null,
+  "Fazal Mills": [
+    24.84714,
+    67.1713711
+  ],
+  "Federal B. Area": [
+    24.9256493,
+    67.0689573
+  ],
+  "Fedral B. Area Block-H Chowrangi": null,
+  "Ferer Road": null,
+  "Filter Plant": [
+    24.8972686,
+    67.1152662
+  ],
+  "Firdous Colony": [
+    24.89621905,
+    67.03416356828734
+  ],
+  "First Chowrangi": null,
+  "Fish Harbour": [
+    24.85294755,
+    66.97740441859952
+  ],
+  "Fisheries": [
+    24.8053713,
+    67.202061
+  ],
+  "Five star": [
+    24.81635095,
+    67.02995565982727
+  ],
+  "Five star Chowrangi": null,
+  "Fleet  Club": [
+    24.8570439,
+    67.0343326
+  ],
+  "Fleet Club Shahrah-e-Iraq": null,
+  "Frere Hall": [
+    24.8475202,
+    67.0330882
+  ],
+  "Frere Street": [
+    24.857678001171042,
+    67.03120361907098
+  ],
+  "Fresco Chowk": [
+    24.8901591,
+    67.0776219
+  ],
+  "Fronteir Colony": null,
+  "Frontier mor": null,
+  "Future Colony": [
+    24.8558803,
+    67.2035705
+  ],
+  "Fuwara Chowk": null,
+  "G Alana Road": null,
+  "GUkshan-e- Behar": null,
+  "Gabol Goth": [
+    24.9756495,
+    67.145934
+  ],
+  "Gadap": [
+    25.0721339,
+    67.1236241
+  ],
+  "Gadap Goth": [
+    25.0118453,
+    67.0227421
+  ],
+  "Gaddafi Town": null,
+  "Gandhi Chowk": [
+    17.2485565,
+    80.1472101
+  ],
+  "Gandhi Garden": null,
+  "Garden": [
+    24.8786076,
+    67.0238671
+  ],
+  "Garden Bara Board": null,
+  "Garden Road": [
+    24.871397747868617,
+    67.02207864527102
+  ],
+  "Gareebabad": null,
+  "Geedar Colony": null,
+  "Geram-ka-Goth": null,
+  "Ghani Chowk": null,
+  "Ghani Chowrangi": [
+    24.894223,
+    66.9895923
+  ],
+  "Ghas Bunder": null,
+  "Ghas Mandir": null,
+  "Ghazi Salahuddin Road": [
+    24.884627000680155,
+    67.08062942024435
+  ],
+  "Ghodra No.7": null,
+  "Ghouspak": null,
+  "Gizri": [
+    24.8190156,
+    67.0481437
+  ],
+  "Godhra Camp": null,
+  "Godhra Chowk": null,
+  "Godhra camp": null,
+  "Godown Chowrangi": null,
+  "Goharabad": [
+    24.923929,
+    67.0785772
+  ],
+  "Golden City": null,
+  "Goli Maar": null,
+  "Goli Maar Chowrangi": null,
+  "Golimar No 1": [
+    24.8926609,
+    67.0274263
+  ],
+  "Golimar No 2": [
+    24.8926609,
+    67.0274263
+  ],
+  "Gora Qabristan": [
+    24.85521485,
+    67.05034988175103
+  ],
+  "Goro Mandir": null,
+  "Gosia Chowk": [
+    24.8825963,
+    67.1884899
+  ],
+  "Gr": [
+    13.0223543,
+    77.6395327
+  ],
+  "Grace Mauripur": null,
+  "Graveyard No 7-1/2": null,
+  "Grazy Colony": null,
+  "Gujarnala": null,
+  "Gul Ahmed": [
+    24.8842788,
+    67.0811297
+  ],
+  "Gul Ahmed Mills": [
+    24.8380709,
+    67.2187781
+  ],
+  "Gul Ahmed Textile  Mills": [
+    24.8380709,
+    67.2187781
+  ],
+  "Gul City": [
+    24.8809027,
+    67.1817802
+  ],
+  "Gul Mohammad Chowrangi": null,
+  "Gulashan-e-Hadeed": null,
+  "Gulbahar": [
+    24.896140350000003,
+    67.02573016847757
+  ],
+  "Gulbai": [
+    24.8765871,
+    66.969813
+  ],
+  "Gulbai Chowk": null,
+  "Gulbehar Chowrangi": null,
+  "Gulberg": [
+    24.9325432,
+    67.0705588
+  ],
+  "Gulberg Chowrangi": [
+    24.942086,
+    67.0710369
+  ],
+  "Gulberg Colony": [
+    24.9188052,
+    67.0543489
+  ],
+  "Gulistan-e-Jouhar": [
+    24.9311811,
+    67.1570819
+  ],
+  "Gulshan": [
+    24.9208351,
+    67.0880749
+  ],
+  "Gulshan  Chowrangi": [
+    24.9246131,
+    67.0912849
+  ],
+  "Gulshan Complex": [
+    24.9037549,
+    67.1145014
+  ],
+  "Gulshan Ghazi": [
+    24.9337438,
+    66.9686978
+  ],
+  "Gulshan Thana": null,
+  "Gulshan-e-Farooq": [
+    24.9661433,
+    67.0495724
+  ],
+  "Gulshan-e-Farooq 7-D Qabrustan": null,
+  "Gulshan-e-Hadeed Phase I": [
+    24.87182335,
+    67.36337793374203
+  ],
+  "Gulshan-e-Hadeed Phase II": [
+    24.87182335,
+    67.36337793374203
+  ],
+  "Gulshan-e-Iqbal": [
+    24.9067294,
+    67.0986573
+  ],
+  "Gulshan-e-Iqbal Block 5 Chowrangi": [
+    24.9255868,
+    67.09278
+  ],
+  "Gulshan-e-Iqbal Block No. 4": [
+    24.921844247732526,
+    67.097450224196
+  ],
+  "Gulshan-e-Iqbal Block No. 4-A": [
+    24.921844247732526,
+    67.097450224196
+  ],
+  "Gulshan-e-Maymar": [
+    25.020894,
+    67.13228131174323
+  ],
+  "Gulshan-e-Rufi": [
+    24.9807146,
+    67.1274655
+  ],
+  "Gulshan-e-Saeed Hassan": null,
+  "Gulshan-e-Shamim": [
+    24.9169379,
+    67.0748454
+  ],
+  "Gulshan-e-Zia Terminal No. 1": null,
+  "Gulzar Colony": [
+    24.8556768,
+    67.1339467
+  ],
+  "Gulzar Colony Sector 8-F": [
+    24.8582541,
+    67.1319464
+  ],
+  "Guru Nadir": null,
+  "Gymkhana Club": [
+    24.9337323,
+    67.0640026
+  ],
+  "Habbib Bank": null,
+  "Habib Bank Chowrangi": [
+    24.9113326,
+    67.014248
+  ],
+  "Habib mills": [
+    24.7830205,
+    67.3387591
+  ],
+  "Habibabad": null,
+  "Haji Camp Road": [
+    24.84061547913263,
+    67.0140055560542
+  ],
+  "Haji Jikhria": null,
+  "Haji camp": [
+    24.8680015,
+    67.0067615
+  ],
+  "Haji camp Road": [
+    24.84061547913263,
+    67.0140055560542
+  ],
+  "Hamdard university": [
+    25.086111799999998,
+    67.00810034086847
+  ],
+  "Harichandrai Road": null,
+  "Haroon Banglow": null,
+  "Hasan  Square": [
+    24.9007046,
+    67.0725224
+  ],
+  "Hasan Road": [
+    24.87325237702572,
+    66.99948854202493
+  ],
+  "Hashim Goth": [
+    24.93970985,
+    67.24491451486588
+  ],
+  "Hawksbay": [
+    24.900380650000002,
+    66.83992240017471
+  ],
+  "Hazrat Bilal Colony": [
+    24.8513116,
+    67.1339494
+  ],
+  "Hijaz Dairy Farm": null,
+  "Hill Park": [
+    24.87043195,
+    67.07135207586946
+  ],
+  "Holy Family Hospital": [
+    24.8721154,
+    67.02786456644401
+  ],
+  "Hospital Chorangi": null,
+  "Hospital Road": [
+    24.856578235292737,
+    67.03454521113296
+  ],
+  "Hub Dam Colony": [
+    25.012456772475044,
+    67.02724318309293
+  ],
+  "Hub Pumping Station": null,
+  "Hub River Road": null,
+  "Hub dam Road harri masjid": null,
+  "Hub river Road": null,
+  "Humayun Road": null,
+  "Hussain D\u00e2\u20ac\u2122Silva": null,
+  "Hussainabad": [
+    24.8852314,
+    67.0590877
+  ],
+  "Hussaini Sajjadia": null,
+  "Hussaini Sajjadia Chowrangi": null,
+  "Hyderabad Colony": [
+    24.8853926,
+    67.0539685
+  ],
+  "I.C.I": [
+    24.9731049,
+    67.0704634104876
+  ],
+  "I.C.I Bridge": null,
+  "I.I chundrigar Road": [
+    24.849111289703078,
+    67.00125707158749
+  ],
+  "Ibrahim": null,
+  "Ibrahim Haidery": [
+    24.7851872,
+    67.1428731
+  ],
+  "Imam Bara": [
+    24.8867316,
+    67.046841
+  ],
+  "Imam Hospital": [
+    24.89970065,
+    67.02904648724235
+  ],
+  "Industrial Area": [
+    25.3160546,
+    55.3841353
+  ],
+  "Ingle Road": [
+    24.854758528705105,
+    67.02500417462232
+  ],
+  "Invararity Road": null,
+  "Iqbal Market": [
+    24.93519455,
+    67.04381409220218
+  ],
+  "Iqbal Market 11 1/2 Orangi": null,
+  "Iqbal S.J Shaheed Road": null,
+  "Ishaqabad bridgh": null,
+  "Islam Chowk": [
+    24.955202649999997,
+    66.99014406108017
+  ],
+  "Islam Nagar": [
+    24.9153566,
+    67.0566479
+  ],
+  "Islamia College": [
+    24.9631947,
+    67.0763773
+  ],
+  "Islamia college": [
+    24.9631947,
+    67.0763773
+  ],
+  "Ittefaq Colony Malir": null,
+  "Ittehad Colony": [
+    31.5198308,
+    74.2913354
+  ],
+  "Ittehad Town": [
+    24.9746492,
+    66.9535385
+  ],
+  "Jaffer Tayyar Society": [
+    24.8841642,
+    67.1996064
+  ],
+  "Jahangeer Road": null,
+  "Jail  Chowrangi": [
+    24.8848564,
+    67.0565777
+  ],
+  "Jail Road": [
+    24.892780636708952,
+    67.0543393494204
+  ],
+  "Jalendhri Road": null,
+  "Jam Goth": [
+    24.9854045,
+    67.1058799
+  ],
+  "Jam saddiq ali bridge": null,
+  "Jama Cloth": [
+    24.85878235,
+    67.01448730259767
+  ],
+  "Jama Cloth Market": [
+    24.85878235,
+    67.01448730259767
+  ],
+  "Jama cloth Market": [
+    24.85878235,
+    67.01448730259767
+  ],
+  "Jamaluddin Afghani Road": [
+    24.884421712293378,
+    67.06475315086385
+  ],
+  "Jamat Khana": [
+    24.91372555,
+    67.10107678433259
+  ],
+  "Jamila street": [
+    24.86761099336963,
+    67.0119088448565
+  ],
+  "Jamshed Road": [
+    24.88647098357744,
+    67.05186074432493
+  ],
+  "Jauhar square": null,
+  "Javedan Cement Factory": null,
+  "Jehangirabad": null,
+  "Jet Line": null,
+  "Jial Road": null,
+  "Jigar muradavadi Road": null,
+  "Jinnah Hospital": [
+    24.85806145,
+    67.12032475437704
+  ],
+  "Jinnah Mazar": null,
+  "Jinnah Square": [
+    25.0136668,
+    67.3108546
+  ],
+  "Jinnah central hospital": null,
+  "Jinnah hospital": [
+    24.85806145,
+    67.12032475437704
+  ],
+  "Jonijo Town": null,
+  "Jouhar Chowrangi": null,
+  "Jubilee cinema": null,
+  "Juna Maket": null,
+  "Jutland Lines": [
+    24.8654616,
+    67.0393943
+  ],
+  "K Area": [
+    24.8398374,
+    67.1659474374093
+  ],
+  "K.D.A Chowrangi": null,
+  "K.D.A Office": [
+    24.9273344,
+    67.0950001
+  ],
+  "K.D.A Pump House": null,
+  "K.M.C Primary School": null,
+  "K.M.C Work Shop": null,
+  "KDA": [
+    24.8896835,
+    67.0836475
+  ],
+  "KDA Flats Sector 14-A": null,
+  "KDA Flats Sector 14-B": null,
+  "KDA Pump": null,
+  "Kachi Memon Society": null,
+  "Kadiji": null,
+  "Kakri Ground": [
+    24.85625375,
+    66.9986855228417
+  ],
+  "Kala Pul": [
+    24.8503816,
+    67.0536257
+  ],
+  "Kala school": null,
+  "Kali Market": [
+    24.8573086,
+    67.01259
+  ],
+  "Kalri": [
+    24.8696003,
+    66.989002
+  ],
+  "Karachi University": [
+    24.9437348,
+    67.12062284035505
+  ],
+  "Karim Chowrangi": null,
+  "Karimabad": [
+    24.9195535,
+    67.0556807
+  ],
+  "Karimabad Chowrangi": null,
+  "Karsaz": [
+    24.8778199,
+    67.0989711
+  ],
+  "Karsaz lal kothi": null,
+  "Kasba Mour": null,
+  "Kashmir Chowrangi": null,
+  "Kashmir Road": [
+    24.871564129112915,
+    67.04792491131812
+  ],
+  "Kathere": null,
+  "Katrak Road": [
+    24.85915345,
+    67.0252501
+  ],
+  "Kawari Colony": null,
+  "Keamari": [
+    24.821889,
+    66.9840531
+  ],
+  "Keamari  Terminal No.2": null,
+  "Keamari K.P.T Ground": null,
+  "Kenker": null,
+  "Khadda Market": [
+    24.81348135,
+    67.04995404680363
+  ],
+  "Khadda Memon Society": null,
+  "Khadda Quarters": null,
+  "Khairabad": [
+    24.8507088,
+    67.0185501
+  ],
+  "Khaja jamat khana": null,
+  "Khajeer Bazar": null,
+  "Khajoor Market": [
+    24.8591475,
+    67.0004109
+  ],
+  "Khaled Bin Walid Road": null,
+  "Khaliq-e-Saddi": null,
+  "Kharadar": [
+    24.8511574,
+    66.9949796
+  ],
+  "Kharadar Chowrangi": null,
+  "Kharkar Chowrangi": null,
+  "Khaskheli Goth": [
+    25.1181724,
+    67.15897728645038
+  ],
+  "Khatoon-e-Pakistan College": [
+    24.8902663,
+    67.0729308
+  ],
+  "Khawaja Ajmair Nagri": null,
+  "Khayaban-e-Attar": null,
+  "Khayaban-e-Bahria": [
+    24.82248276741643,
+    67.06973704802002
+  ],
+  "Khayaban-e-Jami": [
+    24.82878033258034,
+    67.06171501464823
+  ],
+  "Khayaban-e-Mafia": null,
+  "Khayaban-e-Roomi": [
+    24.781873565690912,
+    67.06634318185336
+  ],
+  "Khayaban-e-Sadi": null,
+  "Khayaban-e-Shamsheer": [
+    24.817541694440138,
+    67.051989039258
+  ],
+  "Khayaban-e-shershah soori Road": null,
+  "Khayam No 3": null,
+  "Khayam No 4": null,
+  "Khayam No 5": null,
+  "Khazana": null,
+  "Khokhrapar": [
+    24.9040971,
+    67.211932
+  ],
+  "Khokhrapar No. 1": [
+    24.9040971,
+    67.211932
+  ],
+  "Khokhrapar No. 4": [
+    24.9040971,
+    67.211932
+  ],
+  "Khokhrapar No. 6": [
+    24.9040971,
+    67.211932
+  ],
+  "Khokrapar No.1 and No. 4": null,
+  "Khuaja Ajmeer Nagar": null,
+  "Khudadad Colony": [
+    24.8659407,
+    67.0366811
+  ],
+  "Khyber": [
+    24.9247003,
+    67.0195339
+  ],
+  "Khyber Chowk": [
+    24.9653497,
+    66.9594937
+  ],
+  "Kinara Hotel": null,
+  "Kiran Hospital": [
+    24.9470857,
+    67.1449134
+  ],
+  "Korangi": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi Crossing": [
+    24.8170248,
+    67.1079526
+  ],
+  "Korangi Crossing Quyumabad": null,
+  "Korangi I-Area": [
+    24.8510978,
+    67.1926479
+  ],
+  "Korangi Industrial Area": [
+    24.8458157,
+    67.1355011565519
+  ],
+  "Korangi Market": [
+    24.834274,
+    67.1002395
+  ],
+  "Korangi Market No. 6": null,
+  "Korangi No 5-1/2": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Korangi No. 1": [
+    24.8816113,
+    67.1451302
+  ],
+  "Korangi No. 2": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Korangi No. 2 1/2": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Korangi No. 2-1/2": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Korangi No. 3": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi No. 4": [
+    24.826817,
+    67.1594034
+  ],
+  "Korangi No. 5": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Korangi No. 6": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi No.13": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi No.14": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi No.7": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi No.8": [
+    24.8206928,
+    67.1403735
+  ],
+  "Korangi no. 5": [
+    24.811562378470907,
+    67.14937147904101
+  ],
+  "Kothri Parade": null,
+  "Kutchery Road": [
+    24.85511065755379,
+    67.009963758523
+  ],
+  "Labour Campus": [
+    24.9048489,
+    66.9857291
+  ],
+  "Labour Quaters": null,
+  "Labour Square": [
+    24.9043422,
+    66.9835094
+  ],
+  "Lae Market": null,
+  "Lal Kothi": [
+    24.8621502,
+    67.0690638
+  ],
+  "Lal Market": [
+    24.8647185,
+    67.0139198
+  ],
+  "Lal Market 5-F": null,
+  "Lal Market New Karachi": null,
+  "Lalabad": [
+    24.824186,
+    67.2091981
+  ],
+  "Laltain Factory": null,
+  "Lalukhat": null,
+  "Lalukhet No. 10": [
+    24.9159121,
+    67.0510731
+  ],
+  "Landhi": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi  Industrial Area": [
+    24.8566331,
+    67.1950077
+  ],
+  "Landhi 89": [
+    24.8467651,
+    67.2059137
+  ],
+  "Landhi Children Jail": null,
+  "Landhi K-Area": [
+    24.850963059538103,
+    67.19256748791116
+  ],
+  "Landhi No. 1": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi No. 2": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi No. 3": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi No. 3 1/2": null,
+  "Landhi No. 4": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi No. 5": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landhi No. 6": [
+    24.8326654,
+    67.1742861
+  ],
+  "Landhi Petrol Pump": null,
+  "Landhi kotal": null,
+  "Landhi no.  6": [
+    24.8326654,
+    67.1742861
+  ],
+  "Landhi no. 3": [
+    24.8351918,
+    67.1774095
+  ],
+  "Landi No. 1": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Landi No. 2": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Landi No. 3": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Landi No. 4": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Landi No. 5": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Landi No. 6": [
+    24.936952650000002,
+    67.05527875445638
+  ],
+  "Lasbela": [
+    24.8858107,
+    67.032284
+  ],
+  "Lasbela Chowk": [
+    24.8857871,
+    67.0345011
+  ],
+  "Lasbela House": null,
+  "Lashari Village": null,
+  "Lawrance Road": [
+    24.8796477,
+    67.0328307
+  ],
+  "Leemu Goth": null,
+  "Liaquat Abad No. 10": [
+    24.92335785,
+    67.06802780910286
+  ],
+  "Liaquat Hospital": [
+    24.89311605,
+    67.0684484237112
+  ],
+  "Liaquat Market": [
+    24.8925873,
+    67.1948553
+  ],
+  "Liaquat No. 10": [
+    24.8571171,
+    67.01180464182815
+  ],
+  "Liaquatabad": [
+    24.9029771,
+    67.0386279
+  ],
+  "Liaquatabad No 10": [
+    24.9029771,
+    67.0386279
+  ],
+  "Liaquatabad No. 10": [
+    24.9029771,
+    67.0386279
+  ],
+  "Liaquatabad No. 16": [
+    24.9029771,
+    67.0386279
+  ],
+  "Liaquatabad No. 4": [
+    24.9029771,
+    67.0386279
+  ],
+  "Liaquatabad Post Office": null,
+  "Light house": [
+    24.79396975,
+    66.97757514979126
+  ],
+  "Lilly Road": null,
+  "Long Lehar": null,
+  "Luck Star Hotel": null,
+  "Lucky star": [
+    24.8380156,
+    67.1729025
+  ],
+  "Lucky star(Asghar shaheed Road)": null,
+  "Luxury Appartments Habibia Chowk": null,
+  "M.A Ghazi": null,
+  "M.A Jinnah": [
+    24.88112728476948,
+    67.05019655474639
+  ],
+  "M.A Jinnah  Road": [
+    24.874898341040538,
+    67.03698423858656
+  ],
+  "M.E.S": null,
+  "M.P.R Colony": null,
+  "M.R Kiyan Road": null,
+  "M.T Khan Road": [
+    24.843102446986123,
+    67.01436047764588
+  ],
+  "M.W Tower": null,
+  "M.W tower": null,
+  "Machine Tool Factory": [
+    24.8394175,
+    67.2532666
+  ],
+  "Madina Colony": [
+    24.8820226,
+    67.0219999
+  ],
+  "Madina Colony No 5": [
+    24.8820226,
+    67.0219999
+  ],
+  "Madni Goth": [
+    24.88094475,
+    67.05966738579045
+  ],
+  "Madrassa-e-Anwarul Uloom": null,
+  "Mahmood Abad No. 6": null,
+  "Mahmoodabad No. 6": [
+    24.900610119655177,
+    67.02917656927873
+  ],
+  "Mahtab Cinema": null,
+  "Mai Colachi Road": null,
+  "Main Clifton": [
+    24.8279383,
+    67.0336985
+  ],
+  "Majeed Colony Sec No. 2": null,
+  "Makki Masjid": [
+    24.83674,
+    67.141003
+  ],
+  "Malir": [
+    24.8959185,
+    67.1969187
+  ],
+  "Malir 15": [
+    24.8790242,
+    67.1882644
+  ],
+  "Malir Cantt": [
+    24.933711600000002,
+    67.18285633330638
+  ],
+  "Malir City": [
+    24.8791896,
+    67.1881033
+  ],
+  "Malir Halt": [
+    24.884529,
+    67.1745126
+  ],
+  "Malir Mandir": [
+    24.8754713,
+    67.1933307
+  ],
+  "Malir No. 15": [
+    24.8959185,
+    67.1969187
+  ],
+  "Malir Road": [
+    24.858601099026444,
+    67.03493595880406
+  ],
+  "Malir Scheme No. 1": [
+    24.8800518,
+    67.4007813
+  ],
+  "Malir Tanki": null,
+  "Malir city": [
+    24.8791896,
+    67.1881033
+  ],
+  "Manghopir": [
+    24.9956895,
+    67.0311233
+  ],
+  "Manghopir Road": [
+    24.973988736699617,
+    67.03996820589684
+  ],
+  "Manghopir mazar": null,
+  "Manghopir police Station": [
+    24.9847442,
+    67.0386799
+  ],
+  "Mansehra Colony": [
+    24.8574063,
+    67.1871262
+  ],
+  "Mansfelf Street": null,
+  "Mansfield": [
+    24.860307015542908,
+    67.03192828091181
+  ],
+  "Mansoor nagar": [
+    24.9686693,
+    66.9824209
+  ],
+  "Manzoor Colony": [
+    24.8512564,
+    67.0889118
+  ],
+  "Mari Pur": null,
+  "Maria Hill Luxury Appartments": null,
+  "Maria Hill View": null,
+  "Marine Road": null,
+  "Market": [
+    24.9233029,
+    67.24950211698382
+  ],
+  "Market 6": [
+    24.8175861,
+    67.00440121708027
+  ],
+  "Market No 6": [
+    24.8175861,
+    67.00440121708027
+  ],
+  "Market No. 6": [
+    24.8175861,
+    67.00440121708027
+  ],
+  "Maroon Mill": null,
+  "Maroora Goth": null,
+  "Marriet Road": null,
+  "Martin Road": [
+    24.890971340048146,
+    67.04914913671401
+  ],
+  "Masan Road": null,
+  "Masid-e-Khizra": null,
+  "Masjid Abrar": [
+    24.9098077,
+    67.0791593
+  ],
+  "Masjid Adamjee Nagar": null,
+  "Masjid-e-Quba": [
+    24.910734599999998,
+    67.08526693136244
+  ],
+  "Masjid-e-Usman": [
+    24.8002057,
+    67.03399363162256
+  ],
+  "Maskan": [
+    24.9385129,
+    67.10146
+  ],
+  "Masroor Colony": [
+    24.89456125,
+    66.9450569889047
+  ],
+  "Match Factory": null,
+  "Mauripur Road": [
+    24.86752984207064,
+    66.94150741955515
+  ],
+  "Mauripur Truck Adda": null,
+  "Mauripur Village": null,
+  "Maymar Complex": null,
+  "Maymar Plaza": null,
+  "Mazar Abdullah Ghazi": null,
+  "Mazar quaid-e-azam": [
+    24.8746966,
+    67.0393217
+  ],
+  "Mazar-e-Quaid": [
+    24.8746966,
+    67.0393217
+  ],
+  "Mcleod Road": [
+    24.849111289703078,
+    67.00125707158749
+  ],
+  "Meesa Goth": null,
+  "Meesa lane": null,
+  "Mehata palace": null,
+  "Mehmodabad": [
+    24.85692795,
+    67.07581698792875
+  ],
+  "Mehmoodabad Gate": null,
+  "Mehmoodabad No. 5": [
+    24.85077775,
+    67.07300999266857
+  ],
+  "Mehmoodabad No. 6": [
+    24.85077775,
+    67.07300999266857
+  ],
+  "Mehmoodabad No. 6. New Split Level Road": null,
+  "Mehran Depot": null,
+  "Mehran Hotel": [
+    24.8518703,
+    67.0337149
+  ],
+  "Memom Goth": [
+    24.8810654,
+    67.0505027
+  ],
+  "Memon Mullah Issa Goth": null,
+  "Mereweather Tower": null,
+  "Meshang Road": null,
+  "Metriville": null,
+  "Metro": [
+    24.8877573,
+    67.15211010548651
+  ],
+  "Metro Cinema": [
+    24.9358484,
+    67.0094257
+  ],
+  "Metrologecal Department": null,
+  "Metrological Office": null,
+  "Metropol": null,
+  "Metropole hotel": null,
+  "Metropolitan Steel Corporation": null,
+  "Metroville 2": null,
+  "Metroville 3": null,
+  "Metroville-III": null,
+  "Mian Wali Colony": null,
+  "Mian dad goth": null,
+  "Mianwali": [
+    24.7899484,
+    67.3388363
+  ],
+  "Mid East Hospital": null,
+  "Mill Area": null,
+  "Millat Town": [
+    24.87216,
+    67.1705412
+  ],
+  "Mir karam Ali Talpur Road": [
+    24.86147825,
+    67.03016245
+  ],
+  "Mir karam ali talpur Road": [
+    24.86147825,
+    67.03016245
+  ],
+  "Mira adam Khan Road": null,
+  "Mira naka": null,
+  "Moach Goth": [
+    24.927875524935477,
+    66.94908337832237
+  ],
+  "Model Colony": [
+    24.9068326,
+    67.1894182
+  ],
+  "Model Colony Malir Halt": null,
+  "Model Village": [
+    24.8911762,
+    67.2047253
+  ],
+  "Moenabad": null,
+  "Mohabbat khanji Road": null,
+  "Mohajir Camp No. 19-D": null,
+  "Mohajir Camp No. 7": null,
+  "Mohajir Camp No. 8": null,
+  "Mohajir Camp No.4": null,
+  "Mohajir camp": [
+    24.9149461,
+    66.9727647
+  ],
+  "Mohajir camp No 7-1/2": null,
+  "Mohammad Khan Colony": [
+    24.8659067,
+    67.00285319999999
+  ],
+  "Mohammad Murad Gokhia Goth": null,
+  "Mohammad bin qasim Road": [
+    24.8326833,
+    67.21494982171592
+  ],
+  "Mohammad khan goth": [
+    24.9883869,
+    67.1045801
+  ],
+  "Mohan Road": [
+    24.85817,
+    67.0184369
+  ],
+  "Molvi Tameez-uddin Road": null,
+  "Mominabad": [
+    24.9304645,
+    66.9917469
+  ],
+  "Moosa Colony": [
+    24.92013,
+    67.0489994
+  ],
+  "Moosa Hotel": null,
+  "Moosa Lane": [
+    24.857097,
+    66.9973048
+  ],
+  "Moria Faqir Goth": null,
+  "Mosamiat": [
+    24.9360112,
+    67.1376597
+  ],
+  "Moti Mahal": [
+    24.8838039,
+    67.0672128
+  ],
+  "Moti Mahal No. 1": null,
+  "Mouchi Mor No 5": null,
+  "Mouchi Mour": null,
+  "MuBarak Shaheed Road": [
+    24.860169854219205,
+    67.04640157229672
+  ],
+  "Muderwah": null,
+  "Muhajir Camp No. 5": [
+    24.9075095,
+    66.9638897
+  ],
+  "Muhajir Camp No.7": [
+    24.9075095,
+    66.9638897
+  ],
+  "Muhammad Ali Chowk": null,
+  "Mulla Issa": null,
+  "Municipal Dispensary": null,
+  "Murghee Khana": null,
+  "Murshid Bazar": [
+    24.8597762,
+    67.0299137
+  ],
+  "Murtaza Chowrangi": null,
+  "Muscut Industries": null,
+  "Muslim League Quarters": null,
+  "Muslimabad": [
+    24.8777203,
+    67.0497813
+  ],
+  "Mustafabad Colony": null,
+  "Muzafarabad Chowrangi": null,
+  "Muzaffarabad Colony": [
+    24.8291934,
+    67.2298522
+  ],
+  "N.I.P.A": null,
+  "N.I.P.A  Chowrangi": null,
+  "Na Abadi": [
+    24.913439016312925,
+    67.09686194687811
+  ],
+  "Nabbu Goth": null,
+  "Nadi Kinara": [
+    24.9105481,
+    67.2243149
+  ],
+  "Nafees Cinema": [
+    24.8898446,
+    67.1988458
+  ],
+  "Nagan Chowrangi": [
+    24.9650421,
+    67.0668664
+  ],
+  "Nagina cinema": null,
+  "Nai Abadi 5-D-1": [
+    24.9170133,
+    66.9626852
+  ],
+  "Nai Abadi 5-D-4": [
+    24.9170133,
+    66.9626852
+  ],
+  "Naibadi. Manghopir Road": null,
+  "Nairang": null,
+  "Nala": [
+    24.958722831394685,
+    67.07601718527356
+  ],
+  "Nala No 1": null,
+  "Napier Road": [
+    24.855332616977833,
+    67.00449756480398
+  ],
+  "Naseerabad": [
+    24.9326064,
+    67.0741284
+  ],
+  "Nasir Colony": [
+    24.8280161,
+    67.1272374
+  ],
+  "Nata Khan": [
+    24.8835251,
+    67.1365798
+  ],
+  "Natha Khan  Goth": [
+    24.8848113,
+    67.1361423
+  ],
+  "National Cement Factory": null,
+  "National Highway": [
+    24.878558200957197,
+    67.1889440740921
+  ],
+  "National Motors": [
+    24.8544884,
+    67.2431689
+  ],
+  "National Museum": [
+    24.85271065,
+    67.01761372479591
+  ],
+  "National Stadium": [
+    24.8952212,
+    67.08167248410123
+  ],
+  "National highway": [
+    24.878558200957197,
+    67.1889440740921
+  ],
+  "Native jetty": null,
+  "Naval Colony": [
+    24.9467025,
+    66.9382883
+  ],
+  "Naval Colony( Hub River Road)": null,
+  "Naval Quaters": null,
+  "Nazimabad": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad Board": [
+    24.9244948,
+    67.0321749
+  ],
+  "Nazimabad Chowrangi": [
+    24.9009011,
+    67.0299146
+  ],
+  "Nazimabad Chowrangi 2": null,
+  "Nazimabad No 2": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No 7": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No. 1": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No. 2": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No. 3": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No. 4": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No. 6": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad No.1": [
+    24.905865,
+    67.0307183
+  ],
+  "Nazimabad Petrol Pump": null,
+  "Nazimabad Post Office": [
+    24.9076797,
+    67.0261462
+  ],
+  "Nazrul Islam Road": [
+    24.87243933555799,
+    67.05125807189569
+  ],
+  "Netti Jatti": null,
+  "New  Muzafarabad": [
+    24.9375995,
+    67.0395232
+  ],
+  "New Abadi Sector 5-D": null,
+  "New Abadi Sector 5-F Area": null,
+  "New Bridge Baloch Colony": null,
+  "New BundChowrangi": null,
+  "New Karachi": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi 5-D": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi 5-F Allahwala Masjid": null,
+  "New Karachi Block 5-F": null,
+  "New Karachi Nai Abadi": null,
+  "New Karachi No 1": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi No 3": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi No. 2": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi No. 5": [
+    24.9725357,
+    67.0669523
+  ],
+  "New Karachi Sector 5": [
+    24.9868002,
+    67.05526305107786
+  ],
+  "New Karachi Sector 5-E": [
+    24.9919091,
+    67.0709951
+  ],
+  "New Karachi Sector II-C": null,
+  "New KarachiSector II-E Area": null,
+  "New Karahci Saindad Goth": null,
+  "New Kenker": null,
+  "New Link Road": [
+    24.97559106415354,
+    67.015148459185
+  ],
+  "New M.A Jinnah Road": [
+    24.866041312644374,
+    67.03748937258526
+  ],
+  "New Muzaffarabad Colony": [
+    24.8256515,
+    67.2249258
+  ],
+  "New Queens way": null,
+  "New Race Course": null,
+  "New Sabzi Mandi": [
+    32.4841918,
+    74.5439157
+  ],
+  "New Saeedabad Police Training School": null,
+  "New Sultanabad": [
+    24.9740727,
+    67.0026242
+  ],
+  "New Town": [
+    24.9948533,
+    67.0642997
+  ],
+  "New Town Chowrangi": null,
+  "New Town Masjid": [
+    24.8810763,
+    67.0420152
+  ],
+  "New Town Mosque": [
+    24.9740727,
+    67.0026242
+  ],
+  "New Town Police Station": [
+    24.8888121,
+    67.0604742
+  ],
+  "New sabzi mandi B-10": null,
+  "Nigar Cinema": [
+    24.85792905,
+    67.00337037682101
+  ],
+  "Nihal Hospital": null,
+  "Nishan-e-Hyder Road No. 5": null,
+  "Nishtar Road": [
+    25.015687597641467,
+    67.12545956070558
+  ],
+  "No.10": [
+    24.8546842,
+    67.0207055
+  ],
+  "No.4": [
+    24.8546842,
+    67.0207055
+  ],
+  "Noorani Masjid": [
+    25.0032638,
+    67.0692714
+  ],
+  "Noorani Masjid Block 20 Fedral B. Area": null,
+  "North Karachi": [
+    24.9400466,
+    67.0420437
+  ],
+  "North Karachi 5-E": [
+    24.9978933,
+    67.0882085
+  ],
+  "North Karachi Nai Abadi Kala School": null,
+  "North Karachi Sector 2": [
+    25.0024748,
+    67.0523143
+  ],
+  "North Karachi Sector 4": [
+    24.9884769,
+    67.0534716
+  ],
+  "North Karachi Sector 5": [
+    24.9963385,
+    67.0698599
+  ],
+  "North Karachi Sector No. 5-I": null,
+  "North Nazimabad": [
+    24.9400466,
+    67.0420437
+  ],
+  "North Nazimabad Block M": [
+    24.945069949999997,
+    67.05692229991928
+  ],
+  "Numaish": [
+    24.8720773,
+    67.0341289
+  ],
+  "Nursery": [
+    24.8641971,
+    67.208946
+  ],
+  "Nusrat bhutto Colony": [
+    24.9624416,
+    67.047952
+  ],
+  "Oil Piri Road": null,
+  "Ojha Road": [
+    24.859261508278824,
+    67.01652803729158
+  ],
+  "Old Goli Maar": null,
+  "Old Haji Camp": [
+    24.8680015,
+    67.0067615
+  ],
+  "Old Numaish": null,
+  "Old Thana": null,
+  "Old exhibition": null,
+  "Orang Town No. 5": null,
+  "Orangi No 1": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No 13": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No 14": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No 4": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No 8-1/2": [
+    24.97550765210697,
+    67.01518143863393
+  ],
+  "Orangi No. 1": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 10": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 12": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 13": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 14": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 16": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 5": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 6": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 7": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi No. 8": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Sector No. 1": [
+    24.9386683,
+    67.006294
+  ],
+  "Orangi Sector No. 13": [
+    24.9386683,
+    67.006294
+  ],
+  "Orangi Sector No. 14": [
+    24.9329456,
+    66.9988308
+  ],
+  "Orangi Sector No. 5": [
+    24.9386683,
+    67.006294
+  ],
+  "Orangi Sector No. 7": [
+    24.9386683,
+    67.006294
+  ],
+  "Orangi Town": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No 13": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No.  8": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 1": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 12": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 13": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 14": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 4": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 5": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 6": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Town No. 7": [
+    24.9461056,
+    67.0128813
+  ],
+  "Orangi Township No. 10": null,
+  "P.A.F": null,
+  "P.A.F Masroor": null,
+  "P.A.F Stop Gate": null,
+  "P.A.T Colony": null,
+  "P.E.C.H.S": [
+    24.8636919,
+    67.0734735
+  ],
+  "P.E.C.H.S society bus stop": null,
+  "P.I.B Colony": [
+    24.897303,
+    67.0564647
+  ],
+  "P.I.D.C": [
+    24.8462181,
+    67.02493393314074
+  ],
+  "P.I.D.C House": [
+    24.8462181,
+    67.02493393314074
+  ],
+  "P.M.T.F Colony": null,
+  "P.N.S.C Building": null,
+  "PMTF Quaidabad": null,
+  "PNS Shifa": [
+    24.83777505,
+    67.04905416611138
+  ],
+  "Pahalwan Goth": null,
+  "Pahar Gang Abdullah College": null,
+  "Pahar ganj": [
+    24.941144,
+    67.0272792
+  ],
+  "Pahlwan Goth Old Area": null,
+  "Pak Quarters": [
+    24.8820601,
+    67.0264476
+  ],
+  "Pakistan  Chowk": [
+    24.854160200000003,
+    67.01235826002818
+  ],
+  "Pakistan Colony": [
+    24.8532297,
+    67.2140853
+  ],
+  "Pakistan Steel Mills": [
+    24.80524695,
+    67.34658237955374
+  ],
+  "Pakistan quaters": null,
+  "Paposh  Petrol Pump": null,
+  "Paposh Nagar": [
+    24.92435225,
+    67.01990574659017
+  ],
+  "Paracha Mill": [
+    24.8869556,
+    66.9796912
+  ],
+  "Pareshan Chowk": null,
+  "Patel Para": [
+    24.8850313,
+    67.0373183
+  ],
+  "Pathan Colony": [
+    24.9297723,
+    67.0110312
+  ],
+  "Peela School": [
+    24.9061393,
+    67.0241802
+  ],
+  "Peer sarhandi Village": null,
+  "Peoples Chowrangi": null,
+  "Peoples Colony": [
+    24.9447964,
+    67.0657815
+  ],
+  "Petrol Pump": [
+    24.8545037,
+    67.0390337
+  ],
+  "Petrol Pump Chowrangi": [
+    24.9285936,
+    67.1140333
+  ],
+  "Petrol Pump Golimar": null,
+  "Petrol Pump Nazimabad No. 2": null,
+  "Philips Company": null,
+  "Picadilly": null,
+  "Pipri": [
+    24.8579116,
+    67.3122946169724
+  ],
+  "Pir Bokhari": null,
+  "Pir Colony": [
+    24.874476,
+    67.0473078
+  ],
+  "Pir Illahi Bux Colony": null,
+  "Pir Sahib Goth": null,
+  "Pirani Centre": null,
+  "Plaza": [
+    23.1413492,
+    -82.386751
+  ],
+  "Plaza Cinema": null,
+  "Police Chowki": [
+    24.9584955,
+    66.9815362
+  ],
+  "Police Station": [
+    24.923289,
+    67.1474984
+  ],
+  "Police Training School": null,
+  "Polictechnic College": null,
+  "Politechnical": null,
+  "Postoffice": null,
+  "Power House": [
+    24.951044571055284,
+    67.07506849512264
+  ],
+  "Power house": [
+    24.951044571055284,
+    67.07506849512264
+  ],
+  "Preedt Street": null,
+  "Preedy Station": [
+    24.861877,
+    67.0216111
+  ],
+  "Prehmat Chowk": null,
+  "Pretam das Road": null,
+  "Prince Street": [
+    24.87807877412787,
+    67.02747423944504
+  ],
+  "Punjab Chowrangi": null,
+  "Punjab Colony": [
+    24.830218950000003,
+    67.04660721146612
+  ],
+  "Punjabi Club": null,
+  "Purana Golimar": null,
+  "Purana Truck Stand": null,
+  "Purani haji camp": null,
+  "Purani numaish": null,
+  "Pushtoonabad": null,
+  "Qabail Chowk": null,
+  "Qabrustan": [
+    24.94529175,
+    67.10860906723315
+  ],
+  "Qadafi Chowk": null,
+  "Qalandari Chowk": null,
+  "Qamar house": null,
+  "Qasba Colony": [
+    24.9421426,
+    67.0237121
+  ],
+  "Qasba Mour": null,
+  "Qater hospital": null,
+  "Qayyumabad": [
+    24.829419,
+    67.080768
+  ],
+  "Qayyumabad,  Akhter Colony": null,
+  "Qazafi Town": [
+    24.849501,
+    67.225506
+  ],
+  "Quaid-e-Azam Colony": null,
+  "Quaid-e-azam society": null,
+  "Quaidabad": [
+    24.8551282,
+    67.2117445
+  ],
+  "Quaidabad Railway Station": null,
+  "Quaters": [
+    24.8651143,
+    67.0220967
+  ],
+  "Quetta Lane": [
+    24.9136705,
+    67.1206804
+  ],
+  "Qureshi hotel": [
+    24.9660172,
+    67.0673942
+  ],
+  "Quyumabad Chowk": null,
+  "R.C.D Highway": null,
+  "R.T.A Office": null,
+  "Rabi City": null,
+  "Raca course": null,
+  "Radio pakistan": [
+    25.388707099999998,
+    68.36531239680474
+  ],
+  "Rafi Bunglows": null,
+  "Rafiq Shaheed Road": null,
+  "Rahimabad": [
+    24.8228509,
+    67.153982
+  ],
+  "Rahri Goth": null,
+  "Railway Phatak": null,
+  "Railway Stadium": null,
+  "Rais Amrohvi Colony": null,
+  "Raja Ghazanfar Ali Road": [
+    24.854206389989187,
+    67.03194369939541
+  ],
+  "Ram Swami": null,
+  "Ranchore": [
+    24.861759499999998,
+    67.01318940061711
+  ],
+  "Ranchore Lane": [
+    24.8619594,
+    67.0112165
+  ],
+  "Rashd Minhas Road": [
+    24.89386803136046,
+    67.12073546237339
+  ],
+  "Rasheed Textile Mills": null,
+  "Rasheedabad": [
+    24.9046171,
+    66.9718418
+  ],
+  "Rashidabad No 2": null,
+  "Ravechand Road": null,
+  "Razi B.B Member Goth": null,
+  "Regal": [
+    24.86055495,
+    67.02474999080036
+  ],
+  "Regal Chowk": [
+    24.8604633,
+    67.0244318
+  ],
+  "Regal Cinema": null,
+  "Regent Plaza": [
+    24.85486925,
+    67.04018549716828
+  ],
+  "Rehmania Town": [
+    24.8844173,
+    67.1598842
+  ],
+  "Rehri": [
+    24.8158871,
+    67.2281223
+  ],
+  "Rehri Road": [
+    24.826260460063086,
+    67.2247636245681
+  ],
+  "Reta Plot": [
+    24.8780842,
+    67.1457057
+  ],
+  "Rexer Lines": null,
+  "Royal Stop": null,
+  "Rubby Cinema": null,
+  "Ruby Turn": null,
+  "Rustam Goth": [
+    24.9731264,
+    66.9922958
+  ],
+  "S.I.T.E": [
+    24.9373755,
+    67.0524375
+  ],
+  "S.I.T.E Police Station": [
+    24.8834748,
+    66.9751511
+  ],
+  "S.M college": null,
+  "S.M.C.H.S": [
+    24.8795919,
+    67.0619131
+  ],
+  "Saba Akhtar Road": null,
+  "Saba Cinema": [
+    24.98674855,
+    67.08578867258339
+  ],
+  "Saba cinema": [
+    24.98674855,
+    67.08578867258339
+  ],
+  "Sabil Wali Masjid": null,
+  "Sabilwala Mosque": null,
+  "Sabzi  MAndi": [
+    24.998375799999998,
+    67.15778037602576
+  ],
+  "Sachal Goth": [
+    24.9506569,
+    67.1288595
+  ],
+  "Sadar": [
+    24.858429,
+    67.0243372
+  ],
+  "Saddi Garden Scheme No. 33": null,
+  "Saddi Town": null,
+  "Saeed Abad": [
+    34.0147499,
+    71.58023368915043
+  ],
+  "Saeed Manzil": [
+    24.840312,
+    67.0177218
+  ],
+  "Safari Park": [
+    24.92050075,
+    67.11144637536476
+  ],
+  "Safoora  Goth": [
+    24.9392946,
+    67.1561264
+  ],
+  "Saghir Centre": [
+    24.9362457,
+    67.0848215
+  ],
+  "Saghirabad": null,
+  "Sahafi Colony": null,
+  "Saifee Technology College": null,
+  "Sailani Colony": null,
+  "Sakhi  Hasan": [
+    24.9557798,
+    67.0547588
+  ],
+  "Sakhi Centre": [
+    24.8891611,
+    66.9850134
+  ],
+  "Sakhi Hassan Road": [
+    24.8864274,
+    67.0043453
+  ],
+  "Saleem Centre": [
+    24.978500349999997,
+    67.0669892090245
+  ],
+  "Saleh Mohammad Goth": null,
+  "Samdani hospital": [
+    24.9215799,
+    67.0882897
+  ],
+  "Sangan Cinema": null,
+  "Sarwar Shaheed Road": [
+    24.854758528705105,
+    67.02500417462232
+  ],
+  "Sarwar shaheed Road": [
+    24.854758528705105,
+    67.02500417462232
+  ],
+  "Saudabad": [
+    24.9010045,
+    67.2033252
+  ],
+  "Saudi  Embassy": [
+    24.8167137,
+    67.051722
+  ],
+  "Schon Chowrangi": null,
+  "Scout Colony": [
+    24.942802056962098,
+    67.09885679390986
+  ],
+  "Sea View": [
+    24.7909724,
+    67.0426313
+  ],
+  "Sector 1": [
+    25.02754805,
+    67.42742988941114
+  ],
+  "Sector 10": [
+    25.018422100000002,
+    67.17806297719497
+  ],
+  "Sector 11-5": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 11-7": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 11-A": [
+    24.9825417,
+    67.0605863
+  ],
+  "Sector 11-B": [
+    24.9743885,
+    67.0607682
+  ],
+  "Sector 11-D": [
+    24.9809239,
+    67.0741921
+  ],
+  "Sector 5-1": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-2": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-3": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-4": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-A": [
+    25.01531025,
+    67.4435920185663
+  ],
+  "Sector 5-B": [
+    25.0193877,
+    67.4391511706322
+  ],
+  "Sector 5-B-1": [
+    24.8858373,
+    66.9028536530234
+  ],
+  "Sector 5-B-4 New Karachi": [
+    24.9962578,
+    67.0596116
+  ],
+  "Sector 5-C": [
+    25.02097845,
+    67.44809439750887
+  ],
+  "Sector 5-C-1": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-C-2": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-C-3": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-C/3": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-D": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-E nala": null,
+  "Sector 5-F": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector 5-F Maidan New Karachi": null,
+  "Sector 5-K": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector No 4": [
+    25.071951300000002,
+    67.16877127003781
+  ],
+  "Sector No. 2 Majeed Colony": [
+    24.8347736,
+    67.23663016492898
+  ],
+  "Security Printing Press": null,
+  "Sehrah Goth": null,
+  "Sessi Hospital": [
+    24.8338742,
+    67.2257119
+  ],
+  "Seven Day Hospital": null,
+  "Shabnam Cinema": null,
+  "Shadman Town": [
+    24.961012,
+    67.0501852
+  ],
+  "Shadman Town Qalandria Chowk": null,
+  "Shafi Mour": null,
+  "Shafiq Mills": null,
+  "Shah Bhittai Colony": null,
+  "Shah Faisal Colony No. 3": [
+    24.8810955,
+    67.145214
+  ],
+  "Shah Faisal Railway Station": null,
+  "Shah Waliullah Road": [
+    24.863575322564348,
+    66.98919238724282
+  ],
+  "Shah faisal Colony": [
+    24.8810955,
+    67.145214
+  ],
+  "Shahdibagh": null,
+  "Shaheed Complex": [
+    24.9484812,
+    67.1437864
+  ],
+  "Shaheed millat Road": [
+    24.87645715,
+    67.06989035000001
+  ],
+  "Shaheed-e-Millat": [
+    24.85785779555923,
+    67.08978077862128
+  ],
+  "Shaheen Complex": [
+    24.850814749999998,
+    67.01951015110221
+  ],
+  "Shahra-e-Faisal": [
+    24.8838184,
+    67.11639153316209
+  ],
+  "Shahra-e-Firdousi": null,
+  "Shahra-e-Ghalib Chowrangi": null,
+  "Shahra-e-Humayun": null,
+  "Shahra-e-Iraq": null,
+  "Shahra-e-Jehangir": null,
+  "Shahra-e-Kamal Attaturk": null,
+  "Shahra-e-Liaquat": null,
+  "Shahra-e-Pakistan": [
+    24.8838184,
+    67.11639153316209
+  ],
+  "Shahra-e-Quaideen": null,
+  "Shahra-e-Soori": null,
+  "Shahrah-e-Jamm Sadiq Ali": null,
+  "Shahrah-e-Wali Ullah Road": null,
+  "Shahrah-e-shershah soori Road": null,
+  "Sharafa Goth": null,
+  "Sheeri jinnah College": null,
+  "Sher Shah Chowrangi": null,
+  "Sherpao Colony": [
+    24.8356622,
+    67.2094289
+  ],
+  "Shershah": [
+    24.8848987,
+    66.9975502
+  ],
+  "Shidi Village": null,
+  "Shipowner College": [
+    24.9488618,
+    67.0409069
+  ],
+  "Shirin Jinnah Colony": null,
+  "Sho Market": [
+    24.9103736,
+    67.0511764
+  ],
+  "Siddiq Market": [
+    24.8662905,
+    67.0074042
+  ],
+  "Siddiq Wahab Road": [
+    24.864653996015193,
+    67.00477440185817
+  ],
+  "Sindh Goverment Hospital": [
+    24.8757888,
+    67.0479543
+  ],
+  "Sindh Hotal": null,
+  "Sindhi Hotel New Karachi": null,
+  "Sindhi Muslim Society": [
+    24.85981665,
+    67.05502410668663
+  ],
+  "Singer Area Road No. 13000": null,
+  "Singer Chowrangi": [
+    24.8507452,
+    67.18129307694406
+  ],
+  "Sir syed Town": [
+    24.9701789,
+    67.0581855
+  ],
+  "Site": [
+    24.94244125,
+    67.14036316716627
+  ],
+  "Site Thana": null,
+  "Soceity": [
+    24.8815699,
+    67.0373848
+  ],
+  "Social Security Hospital": [
+    24.9479138,
+    67.0059951
+  ],
+  "Society  Office": [
+    24.97059685,
+    67.1054704590938
+  ],
+  "Society Graveyard": [
+    24.94105155,
+    66.94626203780165
+  ],
+  "Society Office Goro Mandir": null,
+  "Society Qabristan": null,
+  "Sohrab Goth": [
+    24.9505443,
+    67.0897399
+  ],
+  "Sohrab goth": [
+    24.9505443,
+    67.0897399
+  ],
+  "Soldier Bazar": [
+    24.8766471,
+    67.0311682
+  ],
+  "South Napier Road": null,
+  "Spensor Eye Hospital": null,
+  "St. Patrick High School": [
+    24.86314545,
+    67.03482978101593
+  ],
+  "Stadium": [
+    24.8952212,
+    67.08167248410123
+  ],
+  "Stadium Road": [
+    24.8928039,
+    67.082938
+  ],
+  "Star Centre": null,
+  "Star Gate": [
+    24.8870129,
+    67.1557701
+  ],
+  "State Bank": [
+    24.847292,
+    66.9933757
+  ],
+  "State Bank Quarters": null,
+  "Station": [
+    24.8485925,
+    67.00638491702443
+  ],
+  "Steel Town": [
+    24.8691966,
+    67.3381208
+  ],
+  "Stop No 4": null,
+  "Street 26": [
+    24.79956645927383,
+    67.04782330197173
+  ],
+  "Stretchen Road": null,
+  "Sui Gas Terminus": null,
+  "Sujani Town": null,
+  "Sultan Masjid": [
+    24.845776549999997,
+    67.07135915084591
+  ],
+  "Sultanabad": [
+    24.9866519,
+    67.0335972
+  ],
+  "Sultanabad Chowrang": null,
+  "Sunset Boulevard": [
+    24.83202342194431,
+    67.06147388807618
+  ],
+  "Super  Market": [
+    24.9043845,
+    67.0478953
+  ],
+  "Super Highway": null,
+  "Super Market (Near Maymar Flats)": null,
+  "Surjani": [
+    25.0332889,
+    67.0610676
+  ],
+  "Surjani Chowrangi": [
+    25.0061761,
+    67.0641277
+  ],
+  "Surjani K.D.A Office": null,
+  "Surjani Town  No. 4": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town No. 1": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town No. 2": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town No. 3": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town No. 5": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town No. 6": [
+    25.0078575,
+    67.0577811
+  ],
+  "Surjani Town Sector 10": [
+    25.0462666,
+    67.0680607
+  ],
+  "Surjani Town Sector 7-D": [
+    25.0366138,
+    67.0717815
+  ],
+  "Swana City": null,
+  "Swat Colony": [
+    24.9122576,
+    66.9578909
+  ],
+  "Sweeper Colony": null,
+  "T&T Department": null,
+  "T.V Station": null,
+  "Tahir Saifuddin Road": null,
+  "Taj Mahal Hotel": null,
+  "Taj Silk Mill": null,
+  "Taj hotel": [
+    24.9257338,
+    67.0638133
+  ],
+  "Talpur Road": [
+    24.87977947083682,
+    67.02450532638848
+  ],
+  "Tanki": [
+    24.8982949,
+    67.01793465994993
+  ],
+  "Tanki No. 4": [
+    24.8982949,
+    67.01793465994993
+  ],
+  "Tanver Mahal Cinema": null,
+  "Tariq  Road": [
+    24.868040399999998,
+    67.05753865
+  ],
+  "Tariq Road Chowrangi": null,
+  "Tasweer Mahal": null,
+  "Tasweer mahal": null,
+  "Teen  Hati": null,
+  "Teen Talwar": [
+    24.8338179,
+    67.033666
+  ],
+  "Telephone Exchange": [
+    24.8719004,
+    67.3596871
+  ],
+  "Terminal Building": null,
+  "Terminal No. 4": null,
+  "Thal Ram Khimchand Road": null,
+  "Thana ajmer nagri": null,
+  "Thorani goth": null,
+  "Tibbet Centre": null,
+  "Tibet Building": null,
+  "Tibet Market": [
+    24.862842049999998,
+    67.02191721602522
+  ],
+  "Tin Hatti": null,
+  "Tokyo Terrace Plaza": null,
+  "Tooba Masjid": [
+    24.8432788,
+    67.0541319
+  ],
+  "Tool Factory": [
+    24.8394175,
+    67.2532666
+  ],
+  "Torri Chowk Sector II": null,
+  "Tower": [
+    24.8487556,
+    66.9966678
+  ],
+  "Tower Keamari": null,
+  "Traffic Police Kiask": null,
+  "Trauma Centre": [
+    24.9211529,
+    67.0296122
+  ],
+  "Two Talwar": null,
+  "Two minites stop": null,
+  "U.P Mour": null,
+  "U.P Soceity": null,
+  "U.P Society. U.P Mour": null,
+  "United Printing": null,
+  "University": [
+    24.8787907,
+    67.04753855428774
+  ],
+  "University Road": [
+    24.894870982734354,
+    67.06501008068025
+  ],
+  "Urdu Chowk": null,
+  "Urdu College": [
+    24.9130813,
+    67.0912676
+  ],
+  "Urdu Science Collage": null,
+  "Valika": [
+    24.903306487130582,
+    66.99198964408545
+  ],
+  "Valika Hospital": [
+    24.9272234,
+    67.0155671
+  ],
+  "Valika Mills": null,
+  "Valika hospital": [
+    24.9272234,
+    67.0155671
+  ],
+  "Valika stop": null,
+  "W.F Mour": null,
+  "Wahadat Colony": null,
+  "Washail Bagh": null,
+  "Water Pump": [
+    24.874899,
+    67.1673
+  ],
+  "Wazir Mansion": [
+    24.850975,
+    66.99753138207072
+  ],
+  "Wazir mansion": [
+    24.850975,
+    66.99753138207072
+  ],
+  "Wellington Street": [
+    24.858842209843377,
+    67.03164046631375
+  ],
+  "Wellington street": [
+    24.858842209843377,
+    67.03164046631375
+  ],
+  "West Warf": [
+    24.8492072,
+    66.9834877
+  ],
+  "West Wharaf Road": null,
+  "Wood Street": [
+    24.847272459555505,
+    67.00244077069856
+  ],
+  "Wood street": [
+    24.847272459555505,
+    67.00244077069856
+  ],
+  "Yaqoobabad": [
+    24.9707991,
+    66.9735874
+  ],
+  "Yasinabad": [
+    24.9202282,
+    67.0759779
+  ],
+  "Yasinabad Alliaabad": null,
+  "Yosuf Goth": null,
+  "Z.M.C stop": null,
+  "Zafar House": [
+    24.8255563,
+    67.1718219
+  ],
+  "Zam Zam Chowk": [
+    24.865663,
+    67.0186304
+  ],
+  "Zam zam Chowk No 4": null,
+  "Zero Mile": null,
+  "Zia Chowk": null,
+  "Zia Colony": [
+    24.9176941,
+    67.079836
+  ],
+  "Zia-ul-Haq Colony": [
+    24.9209167,
+    67.0810916
+  ],
+  "Ziaudin Ahmed Road": null,
+  "ddabad": null,
+  "karimabad": [
+    24.9195535,
+    67.0556807
+  ]
+}
